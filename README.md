@@ -103,6 +103,8 @@
 ---
 
 <div align="center">
-  <sub>👾 <i>"Life is a game, code is the quest."</i></sub><br/>
-  <sub>Profile Views: <img src="https://komarev.com/ghpvc/?username=hoducvinhh&color=38bdf8&style=flat-square" alt="views"/></sub>
+  <sub>👾 <i>"Life is a game, code is the quest."</i></sub><br/><br/>
+  <a href="https://github.com/hoducvinhh">
+    <img src="https://komarev.com/ghpvc/?username=hoducvinhh&color=007ec6&style=flat-square" alt="Profile Views" />
+  </a>
 </div>
