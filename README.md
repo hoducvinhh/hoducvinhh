@@ -71,17 +71,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:818cf8&height=3" width="100%" />
 </div>
 
-### 📊 Battle Stats
+### ⚔️ Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoducvinhh&show_icons=true&theme=tokyonight&border_color=38bdf8&border_radius=8&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=hoducvinhh&theme=tokyonight&border_color=38bdf8&border_radius=8" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoducvinhh&layout=compact&theme=tokyonight&border_color=38bdf8&border_radius=8&count_private=true" width="58%" />
+  <a href="https://github.com/hoducvinhh/vinterview">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoducvinhh&repo=vinterview&theme=tokyonight&hide_border=true" width="49%" />
+  </a>
+  <a href="https://github.com/hoducvinhh/game2D">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoducvinhh&repo=game2D&theme=tokyonight&hide_border=true" width="49%" />
+  </a>
 </div>
 
 <div align="center">
